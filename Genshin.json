@@ -2,7 +2,7 @@
 	"name": "Genshin",
 	"version": "1.0",
 	"description": "A theme for Genshin player discord theme for enmity.",
-	"color": "#D9E0EE",
+	"color": "#77DD77",
         "authors": [
 		{
 			"name": "34306",
@@ -15,7 +15,7 @@
 		"alpha": 0.85
 	},
 	"theme_color_map": {
-		"KEYBOARD": ["#161320", "#161320"],
+		"KEYBOARD": ["#C3B1E1", "#C3B1E1"],
 		"BACKGROUND_PRIMARY": ["#161320", "#161320"],
 		"BACKGROUND_SECONDARY": ["#1A1826", "#1A1826"],
 		"BACKGROUND_SECONDARY_ALT": ["#1E1E2E", "#1E1E2E"],
@@ -33,8 +33,8 @@
 		"CHANNELS_DEFAULT": ["#F28FAD", "#F28FAD"],
 		"CHANNEL_ICON": ["#F28FAD", "#F28FAD"],
 		"TEXTBOX_MARKDOWN_SYNTAX": ["#394E62", "#394E62"],
-		"TEXT_NORMAL": ["#C3BAC6", "#C3BAC6"],
-		"TEXT_MUTED": ["#F8BD96", "#F8BD96"],
+		"TEXT_NORMAL": ["#3F3140", "#3F3140"],
+		"TEXT_MUTED": ["#907193", "#907193"],
 		"INTERACTIVE_ACTIVE": ["#FAE3B0", "#FAE3B0"],
 		"INTERACTIVE_NORMAL": ["#F2CDCD", "#F2CDCD"],
 		"INTERACTIVE_MUTED": ["#C3BAC6", "#C3BAC6"],
