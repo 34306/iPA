@@ -12,7 +12,7 @@
 	"background": {
 		"blur": 20,
 		"url": "https://raw.githubusercontent.com/34306/iPA/main/BF2A619B-AA27-4EB2-9F5C-D93290309C4B.jpeg",
-		"alpha": 0.85
+		"alpha": 0.95
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#C3B1E1", "#C3B1E1"],
