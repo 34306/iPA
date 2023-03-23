@@ -1,0 +1,38 @@
+{
+    "RepositoryName": "Little 34306",
+    "RepositoryDescription": "Little 34306's MacDirtyCow Repo",
+    "RepositoryAuthor": "34306",
+    "RepositoryIcon": "https://raw.githubusercontent.com/34306/34306.github.io/master/CydiaIcon.png",
+    "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
+    "DefaultHeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
+    "RepositoryContents": [
+        {
+            "Name": "Torch&Camera",
+            "Description": "Change Torch and Camera icon to checkra1 and Snowflake icon",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0515.jpeg",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
+            "Category": null,
+            "Caption": "checkra1n bright your light",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0515.jpeg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Torch.Cam.misaka",
+                    "Description": "Torch and Camera or checkra1n and snowflake? 🤣"
+                }
+            ],
+            "PackageID": "com.34306.tnc"
+        }
+    ]
+}
