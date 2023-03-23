@@ -20,7 +20,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0515.jpeg",
             "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
-            "Category": null,
+            "Category": Lockscreen,
             "Caption": "checkra1n bright your light",
             "Screenshot": [
                 "https://raw.githubusercontent.com/34306/iPA/main/img/torch_and_cam.PNG"
@@ -33,6 +33,34 @@
                 }
             ],
             "PackageID": "com.34306.tnc"
+        },
+        {
+            "Name": "Genshin clock font (iOS 15)",
+            "Description": "Change font clock to Genshin on iOS 15",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_1697.JPG",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
+            "Category": Clockfont,
+            "Caption": "I pulled a Qiqi and lost 50/50, at 90 pity 🥺",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0003.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Genshin_clock_font_iOS_15.misaka",
+                    "Description": "Genshin in your area!"
+                }
+            ],
+            "PackageID": "com.34306.gsclock"
         }
     ]
 }
