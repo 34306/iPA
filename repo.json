@@ -8,7 +8,7 @@
     "RepositoryContents": [
         {
             "Name": "Torch&Camera",
-            "Description": "Change Torch and Camera icon to checkra1 and Snowflake icon",
+            "Description": "Change Torch and Camera icon to checkra1n and Snowflake icon",
             "Author": {
                 "Label": "34306",
                 "Links": [
@@ -23,7 +23,7 @@
             "Category": null,
             "Caption": "checkra1n bright your light",
             "Screenshot": [
-                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0515.jpeg"
+                "https://raw.githubusercontent.com/34306/iPA/main/img/torch_and_cam.PNG"
             ],
             "Releases": [
                 {
