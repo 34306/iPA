@@ -51,7 +51,7 @@
             "Category": null,
             "Caption": "I pulled a Qiqi and lost 50/50, at 90 pity 🥺",
             "Screenshot": [
-                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0003.PNG"
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0003.PNG", "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0002.PNG"
             ],
             "Releases": [
                 {
@@ -61,6 +61,34 @@
                 }
             ],
             "PackageID": "com.34306.gsclock"
+        },
+        {
+            "Name": "Mihari clock (Homescreen)",
+            "Description": "Mahiro-chan does not like it",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/onimai.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
+            "Category": null,
+            "Caption": "Mahiro-chan does not want to become a girl, Mihari 🥺",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0530.jpeg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Mihari.clock.misaka",
+                    "Description": "Genshin in your area!"
+                }
+            ],
+            "PackageID": "com.34306.mhrclock"
         }
     ]
 }
