@@ -199,6 +199,34 @@
                 }
             ],
             "PackageID": "com.34306.loveyou"
+        },
+        {
+            "Name": "ElementTorch",
+            "Description": "Change Torch icon to Genshin elements",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/A7569540-B7B5-4073-9D1C-6960215ED017.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Change Torch and Camera icon to Genshin Elements\nSupport both iOS 15 and 16",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/31C4635A-A29D-4E94-B408-2E3DC063ADA6.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/GenshinTorch.misaka",
+                    "Description": "Little 34306 in your area!"
+                }
+            ],
+            "PackageID": "com.34306.gstorch"
         }
     ]
 }
