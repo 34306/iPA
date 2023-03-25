@@ -143,6 +143,34 @@
                 }
             ],
             "PackageID": "com.34306.baert"
+        },
+        {
+            "Name": "Genshin Passcode",
+            "Description": "Genshin Passcode LS",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/23EE84EF-4237-4B75-A093-F0273D716971.gif",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
+            "Category": null,
+            "Caption": "Paimon is not emergency food 😠",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0639.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Genshin.Passcode.misaka",
+                    "Description": "Little 34306 in your area!"
+                }
+            ],
+            "PackageID": "com.34306.gspc"
         }
     ]
 }
