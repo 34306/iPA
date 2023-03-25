@@ -171,6 +171,34 @@
                 }
             ],
             "PackageID": "com.34306.gspc"
+        },
+        {
+            "Name": "SwipeLove (iOS 16)",
+            "Description": "Change Swipe to unlock",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/93EACE69-62BA-4432-861C-DD53791C639B.jpeg",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
+            "Category": null,
+            "Caption": "Change Swipe to unlock to Loving you 3000 😘\nSupport en, vi, ru, ja languages",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/386DEA8C-C113-45E0-866C-9D447BDC4CD8.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Swipe.iOS.16.misaka",
+                    "Description": "Little 34306 in your area!"
+                }
+            ],
+            "PackageID": "com.34306.loveyou"
         }
     ]
 }
