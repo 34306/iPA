@@ -227,6 +227,34 @@
                 }
             ],
             "PackageID": "com.34306.gstorch"
+        },
+        {
+            "Name": "RRClock",
+            "Description": "Never gonna give you up...!",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/2D642E96-5BFA-40C3-97CC-D507741BB3D4.gif",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Never gonna give you up\nNever gonna let you down!😱",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/FD47F18C-FB97-4654-95FB-76B90D2F7A7D.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/RRClock.misaka",
+                    "Description": "Little 34306 in your area!"
+                }
+            ],
+            "PackageID": "com.34306.rrclock"
         }
     ]
 }
