@@ -255,6 +255,34 @@
                 }
             ],
             "PackageID": "com.34306.rrclock"
+        },
+        {
+            "Name": "SubwayCheat",
+            "Description": "Hack coins, keys and others!",
+            "Author": {
+                "Label": "34306, ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/CBD2C4E2-86ED-41CA-8132-4ECE3286F10C.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Feel free to play the game as a God! 😝",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/C893F60A-B1EB-4438-89CD-B5628E6904F4.jpeg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/SubwayCheat.misaka",
+                    "Description": "Little 34306 in your area!"
+                }
+            ],
+            "PackageID": "com.34306.subwaycheat"
         }
     ]
 }
