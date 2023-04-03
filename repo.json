@@ -288,6 +288,34 @@
                 }
             ],
             "PackageID": "com.hn.subwaycheat"
+        },
+        {
+            "Name": "A8ArcadeCheat",
+            "Description": "Hack coins and cars!",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://static.wikia.nocookie.net/asphalt/images/d/d0/A8%2B_v1.0_icon.jpg/revision/latest?cb=20211022221119",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "WHO'S NEXT! 😝",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/F6EFF691-468E-456A-9C41-8BEFD981A15B.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Asphalt.8.Arcade.cheat.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.a8plus"
         }
     ]
 }
