@@ -1,7 +1,7 @@
 {
-    "RepositoryName": "Little 34306",
-    "RepositoryDescription": "Little 34306's MacDirtyCow Repo",
-    "RepositoryAuthor": "34306",
+    "RepositoryName": "Huy Nguyen",
+    "RepositoryDescription": "Huy Nguyen's MacDirtyCow Repo",
+    "RepositoryAuthor": "Huy Nguyen",
     "RepositoryIcon": "https://raw.githubusercontent.com/34306/34306.github.io/master/CydiaIcon.png",
     "RepositoryWebsite": "https://34306.github.io",
     "DefaultHeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
@@ -10,10 +10,10 @@
             "Name": "Torch&Camera",
             "Description": "Change Torch and Camera icon to checkra1n and Snowflake icon",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
                     }
                 ]
@@ -32,16 +32,16 @@
                     "Description": "Torch and Camera or checkra1n and snowflake? 🤣"
                 }
             ],
-            "PackageID": "com.34306.tnc"
+            "PackageID": "com.hn.tnc"
         },
         {
             "Name": "Genshin clock font (iOS 15)",
             "Description": "Change font clock to Genshin on iOS 15",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
                     }
                 ]
@@ -60,16 +60,16 @@
                     "Description": "Genshin in your area!"
                 }
             ],
-            "PackageID": "com.34306.gsclock"
+            "PackageID": "com.hn.gsclock"
         },
         {
             "Name": "Mihari clock (Homescreen)",
             "Description": "Mahiro-chan does not like it",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
                     }
                 ]
@@ -88,16 +88,16 @@
                     "Description": "Onimaiiii!"
                 }
             ],
-            "PackageID": "com.34306.mhrclock"
+            "PackageID": "com.hn.mhrclock"
         },
         {
             "Name": "ClockFonts (iOS 16)",
             "Description": "Various fonts clock for iOS 16",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
                     }
                 ]
@@ -113,19 +113,19 @@
                 {
                     "Version": "1.0",
                     "Package": "https://github.com/34306/iPA/releases/download/mskrp/ClockFonts1.iOS.16.misaka",
-                    "Description": "Little 34306 in your area!"
+                    "Description": "Huy Nguyen in your area!"
                 }
             ],
-            "PackageID": "com.34306.16clock1"
+            "PackageID": "com.hn.16clock1"
         },
         {
             "Name": "Bae Kajima ringtone",
             "Description": "Set ringtone to Playtime to enable",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
                     }
                 ]
@@ -139,19 +139,19 @@
                 {
                     "Version": "1.0",
                     "Package": "https://github.com/34306/iPA/releases/download/mskrp/BaeKajima.ringtone.misaka",
-                    "Description": "Little 34306 in your area!"
+                    "Description": "Huy Nguyen in your area!"
                 }
             ],
-            "PackageID": "com.34306.baert"
+            "PackageID": "com.hn.baert"
         },
         {
             "Name": "Genshin Passcode",
             "Description": "Genshin Passcode LS",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
                     }
                 ]
@@ -167,19 +167,19 @@
                 {
                     "Version": "1.0",
                     "Package": "https://github.com/34306/iPA/releases/download/mskrp/Genshin.Passcode.misaka",
-                    "Description": "Little 34306 in your area!"
+                    "Description": "Huy Nguyen in your area!"
                 }
             ],
-            "PackageID": "com.34306.gspc"
+            "PackageID": "com.hn.gspc"
         },
         {
             "Name": "SwipeLove (iOS 16)",
             "Description": "Change Swipe to unlock",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
                     }
                 ]
@@ -195,19 +195,19 @@
                 {
                     "Version": "1.0",
                     "Package": "https://github.com/34306/iPA/releases/download/mskrp/Swipe.iOS.16.misaka",
-                    "Description": "Little 34306 in your area!"
+                    "Description": "Huy Nguyen in your area!"
                 }
             ],
-            "PackageID": "com.34306.loveyou"
+            "PackageID": "com.hn.loveyou"
         },
         {
             "Name": "ElementTorch",
             "Description": "Change Torch icon to Genshin elements",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
                     }
                 ]
@@ -223,19 +223,19 @@
                 {
                     "Version": "1.0",
                     "Package": "https://github.com/34306/iPA/releases/download/mskrp/GenshinTorch.misaka",
-                    "Description": "Little 34306 in your area!"
+                    "Description": "Huy Nguyen in your area!"
                 }
             ],
-            "PackageID": "com.34306.gstorch"
+            "PackageID": "com.hn.gstorch"
         },
         {
             "Name": "RicKlock",
             "Description": "Never gonna give you up...!",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
                     }
                 ]
@@ -251,19 +251,19 @@
                 {
                     "Version": "1.0",
                     "Package": "https://github.com/34306/iPA/releases/download/mskrp/RRClock.misaka",
-                    "Description": "Little 34306 in your area!"
+                    "Description": "Huy Nguyen in your area!"
                 }
             ],
-            "PackageID": "com.34306.rrclock"
+            "PackageID": "com.hn.rrclock"
         },
         {
             "Name": "SubwayCheat",
             "Description": "Hack coins, keys and others!",
             "Author": {
-                "Label": "34306, ChromiumCandy",
+                "Label": "Huy Nguyen, ChromiumCandy",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
                     },
                     {
@@ -284,10 +284,10 @@
                 {
                     "Version": "1.0",
                     "Package": "https://github.com/34306/iPA/releases/download/mskrp/SubwayCheat.misaka",
-                    "Description": "Little 34306 in your area!"
+                    "Description": "Huy Nguyen in your area!"
                 }
             ],
-            "PackageID": "com.34306.subwaycheat"
+            "PackageID": "com.hn.subwaycheat"
         }
     ]
 }
