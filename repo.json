@@ -255,67 +255,6 @@
                 }
             ],
             "PackageID": "com.hn.rrclock"
-        },
-        {
-            "Name": "SubwayCheat",
-            "Description": "Hack coins, keys and others!",
-            "Author": {
-                "Label": "Huy Nguyen, ChromiumCandy",
-                "Links": [
-                    {
-                        "Label": "Huy Nguyen",
-                        "Link": "https://twitter.com/Little_34306"
-                    },
-                    {
-                        "Label": "ChromiumCandy",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/CBD2C4E2-86ED-41CA-8132-4ECE3286F10C.png",
-            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
-            "Category": null,
-            "Caption": "Feel free to play the game as a God! 😝",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/34306/iPA/main/img/C893F60A-B1EB-4438-89CD-B5628E6904F4.jpeg",
-                "https://cdn.discordapp.com/attachments/813615730473304064/1090217429428338759/IMG_3647.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/SubwayCheat.misaka",
-                    "Description": "Huy Nguyen in your area!"
-                }
-            ],
-            "PackageID": "com.hn.subwaycheat"
-        },
-        {
-            "Name": "A8ArcadeCheat",
-            "Description": "Hack coins and cars!",
-            "Author": {
-                "Label": "Huy Nguyen",
-                "Links": [
-                    {
-                        "Label": "Huy Nguyen",
-                        "Link": "https://twitter.com/Little_34306"
-                    }
-                ]
-            },
-            "Icon": "https://static.wikia.nocookie.net/asphalt/images/d/d0/A8%2B_v1.0_icon.jpg/revision/latest?cb=20211022221119",
-            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
-            "Category": null,
-            "Caption": "WHO'S NEXT! 😝",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/34306/iPA/main/img/F6EFF691-468E-456A-9C41-8BEFD981A15B.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Asphalt.8.Arcade.cheat.misaka",
-                    "Description": "Huy Nguyen in your area!"
-                }
-            ],
-            "PackageID": "com.hn.a8plus"
-        }
+        }   
     ]
 }
