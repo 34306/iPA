@@ -255,6 +255,35 @@
                 }
             ],
             "PackageID": "com.hn.rrclock"
-        }   
+        },
+        {
+            "Name": "ShuwdownSound",
+            "Description": "Enable Shutdown sound like iPhone 14 Pro!",
+            "MinIOSVersion": "16.0",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/sound.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "It's auto enabled!\nYou can try by Shutdown your devices 😱",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/3EE039DF-02F5-4EBD-8F9C-BC2BE0F6ED19.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/ShutdownSound.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.shutdownsound"
+        }
     ]
 }
