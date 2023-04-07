@@ -257,7 +257,7 @@
             "PackageID": "com.hn.rrclock"
         },
         {
-            "Name": "ShuwdownSound",
+            "Name": "ShutdownSound",
             "Description": "Enable Shutdown sound like iPhone 14 Pro!",
             "MinIOSVersion": "16.0",
             "Author": {
@@ -284,6 +284,34 @@
                 }
             ],
             "PackageID": "com.hn.shutdownsound"
+        },
+        {
+            "Name": "Safai Private Edit",
+            "Description": "Edit text on Safari Private Browser mode!",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/sfr.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Safari Private Browser mode!\nYou can edit your own text on Tweak Settings 🤭",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0706.PNG", "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0708.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Safari.edit.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.sfredit"
         }
     ]
 }
