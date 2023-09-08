@@ -312,6 +312,34 @@
                 }
             ],
             "PackageID": "com.hn.sfredit"
+        },
+        {
+            "Name": "Hidden iCloud",
+            "Description": "Hide your iCloud without password",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/493162.webp",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "How to use:\n1. Enable, then go to Settings > General\n2. Disable all the ScreenTime button\n3. Delete dsid config number\n4. Reboot and now you can logout iCloud without password!\n🥰",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_4689.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/34306_icloud_remove.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.rmicl"
         }
     ]
 }
