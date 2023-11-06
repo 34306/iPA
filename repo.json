@@ -363,6 +363,7 @@
             "Screenshot": [
                 "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_1074.PNG"
             ],
+            "compatibleExploit": ["MDC", "KFD", "No Exploit"],
             "Releases": [
                 {
                     "Version": "1.0",
