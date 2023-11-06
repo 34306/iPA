@@ -340,6 +340,34 @@
                 }
             ],
             "PackageID": "com.hn.rmicl"
+        },
+        {
+            "Name": "PiPTime",
+            "Description": "Show time, free RAM, date and iOS",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/ic.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Usage: Enable, give Misaka permission to enable PiP.\nEnjoy!\nI'll update it to add Lunar Calendar and more!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_1074.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/pip_style_1.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.rmicl"
         }
     ]
 }
