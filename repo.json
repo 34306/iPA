@@ -362,6 +362,8 @@
             ],
             "Releases": [
                 {
+                    "MinIOSVersion": "15.0",
+                    "MaxIOSVersion": "17.5"
                     "Version": "1.0",
                     "Package": "https://github.com/34306/iPA/releases/download/mskrp/pip_style_1.misaka",
                     "Description": "Huy Nguyen in your area!"
