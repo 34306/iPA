@@ -288,6 +288,7 @@
         {
             "Name": "Safari Private Edit",
             "Description": "Edit text on Safari Private Browser mode!",
+            "MinIOSVersion": "15.0",
             "Author": {
                 "Label": "Huy Nguyen",
                 "Links": [
@@ -316,6 +317,7 @@
         {
             "Name": "Hidden iCloud",
             "Description": "Hide your iCloud without password",
+            "MinIOSVersion": "15.0",
             "Author": {
                 "Label": "Huy Nguyen",
                 "Links": [
@@ -344,6 +346,7 @@
         {
             "Name": "PiPTime",
             "Description": "Show time, free RAM, date and iOS",
+            "MinIOSVersion": "15.0",
             "Author": {
                 "Label": "Huy Nguyen",
                 "Links": [
@@ -356,8 +359,6 @@
             "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/ic.png",
             "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
             "Category": null,
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "17.5",
             "Caption": "Usage: Enable, give Misaka permission to enable PiP.\nEnjoy!\nI'll update it to add Lunar Calendar and more!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_1074.PNG"
