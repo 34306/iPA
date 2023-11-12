@@ -372,6 +372,36 @@
                 }
             ],
             "PackageID": "com.hn.pip1"
+        },
+        {
+            "Name": "Hentie",
+            "Description": "Lunar PiP",
+            "MinIOSVersion": "15.0",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_1211.JPG",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Usage: Enable, give Misaka permission to enable PiP.\nGive permission to requested API\nEnjoy!\nHentie using a part of Joutai code thanks to Robin",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_1209.PNG"
+            ],
+            "compatibleExploit": ["MDC", "KFD", "No Exploit"],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/pip_style_2.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.pip2"
         }
     ]
 }
