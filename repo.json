@@ -28,7 +28,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Torch.Cam.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.tnc.misaka",
                     "Description": "Torch and Camera or checkra1n and snowflake? 🤣"
                 }
             ],
@@ -56,7 +56,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Genshin_clock_font_iOS_15.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.gsclock.misaka",
                     "Description": "Genshin in your area!"
                 }
             ],
@@ -84,7 +84,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Mihari.clock.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.mhrclock.misaka",
                     "Description": "Onimaiiii!"
                 }
             ],
@@ -112,7 +112,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/ClockFonts1.iOS.16.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.16clock1.misaka",
                     "Description": "Huy Nguyen in your area!"
                 }
             ],
@@ -138,7 +138,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/BaeKajima.ringtone.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.baert.misaka",
                     "Description": "Huy Nguyen in your area!"
                 }
             ],
@@ -166,7 +166,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Genshin.Passcode.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.gspc.misaka",
                     "Description": "Huy Nguyen in your area!"
                 }
             ],
@@ -194,7 +194,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Swipe.iOS.16.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.loveyou.misaka",
                     "Description": "Huy Nguyen in your area!"
                 }
             ],
@@ -222,7 +222,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/GenshinTorch.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.gstorch.misaka",
                     "Description": "Huy Nguyen in your area!"
                 }
             ],
@@ -250,7 +250,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/RRClock.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.rrclock.misaka",
                     "Description": "Huy Nguyen in your area!"
                 }
             ],
@@ -279,7 +279,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/ShutdownSound.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.shutdownsound.misaka",
                     "Description": "Huy Nguyen in your area!"
                 }
             ],
@@ -308,7 +308,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Safari.edit.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.sfredit.misaka",
                     "Description": "Huy Nguyen in your area!"
                 }
             ],
@@ -337,7 +337,7 @@
             "Releases": [
                 {
                     "Version": "1.1",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/34306_icloud_remove.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.rmicl.misaka",
                     "Description": "Huy Nguyen in your area!"
                 }
             ],
@@ -367,7 +367,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/pip_style_1.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.pip1.misaka",
                     "Description": "Huy Nguyen in your area!"
                 }
             ],
@@ -397,7 +397,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/pip_style_2.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/com.hn.pip2.misaka",
                     "Description": "Huy Nguyen in your area!"
                 }
             ],
