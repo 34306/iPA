@@ -3,8 +3,8 @@
     "repotype":"purekfdextended",
     "name": "Huy Nguyen",
     "description": "Huy Nguyen's MDC/KFD Repo",
-    "icon": "img/DC2C7804-DF46-4A67-9229-4ABA53A45C7D.jpeg",
-    "DefaultHeaderImage": "img/suzume.gif",
+    "icon": "../img/DC2C7804-DF46-4A67-9229-4ABA53A45C7D.jpeg",
+    "DefaultHeaderImage": "../img/suzume.gif",
     "packages": [
         {
             "name": "Genshin clock font (iOS 15)",
@@ -14,13 +14,13 @@
             "version": "1.0",
             "long_description": "I pulled a Qiqi and lost 50/50, at 90 pity \ud83e\udd7a",
             "category": null,
-            "icon": "img/IMG_1697.JPG",
+            "icon": "../img/IMG_1697.JPG",
             "path": "Tweaks/com.hn.gsclock.purekfd",
             "screenshots": [
-                "img/IMG_0003.PNG",
-                "img/IMG_0002.PNG"
+                "../img/IMG_0003.PNG",
+                "../img/IMG_0002.PNG"
             ],
-            "banner": "img/suzume.gif"
+            "banner": "../img/suzume.gif"
         },
         {
             "name": "Mihari clock (Homescreen)",
@@ -30,12 +30,12 @@
             "version": "1.0",
             "long_description": "Mahiro-chan does not want to become a girl, Mihari \ud83e\udd7a",
             "category": null,
-            "icon": "img/onimai.png",
+            "icon": "../img/onimai.png",
             "path": "Tweaks/com.hn.mhrclock.purekfd",
             "screenshots": [
-                "img/IMG_0530.jpeg"
+                "../img/IMG_0530.jpeg"
             ],
-            "banner": "img/suzume.gif"
+            "banner": "../img/suzume.gif"
         },
         {
             "name": "ClockFonts (iOS 16)",
@@ -45,12 +45,12 @@
             "version": "1.0",
             "long_description": "8 different fonts for iOS 16 \ud83d\ude1d",
             "category": null,
-            "icon": "img/IMG_0619.jpeg",
+            "icon": "../img/IMG_0619.jpeg",
             "path": "Tweaks/com.hn.16clock1.purekfd",
             "screenshots": [
-                "img/IMG_0620.PNG"
+                "../img/IMG_0620.PNG"
             ],
-            "banner": "img/suzume.gif"
+            "banner": "../img/suzume.gif"
         },
         {
             "name": "Bae Kajima ringtone",
@@ -60,10 +60,10 @@
             "version": "1.0",
             "long_description": "Change ringtone to Playtime to enable and feeling it! \ud83e\udd70",
             "category": null,
-            "icon": "img/bocchi.gif",
+            "icon": "../img/bocchi.gif",
             "path": "Tweaks/com.hn.baert.purekfd",
             "screenshots": null,
-            "banner": "img/suzume.gif"
+            "banner": "../img/suzume.gif"
         },
         {
             "name": "Genshin Passcode",
@@ -73,12 +73,12 @@
             "version": "1.0",
             "long_description": "Paimon is not emergency food \ud83d\ude20\nSupport all languages! \ud83e\udd70",
             "category": null,
-            "icon": "img/D3FE7B03-097F-48B4-B8E5-1A85203C6682.gif",
+            "icon": "../img/D3FE7B03-097F-48B4-B8E5-1A85203C6682.gif",
             "path": "Tweaks/com.hn.gspc.purekfd",
             "screenshots": [
-                "img/IMG_0639.PNG"
+                "../img/IMG_0639.PNG"
             ],
-            "banner": "img/suzume.gif"
+            "banner": "../img/suzume.gif"
         },
         {
             "name": "ElementTorch",
@@ -88,12 +88,12 @@
             "version": "1.0",
             "long_description": "Change Torch and Camera icon to Genshin Elements\nSupport both iOS 15 and 16",
             "category": null,
-            "icon": "img/A7569540-B7B5-4073-9D1C-6960215ED017.png",
+            "icon": "../img/A7569540-B7B5-4073-9D1C-6960215ED017.png",
             "path": "Tweaks/com.hn.gstorch.purekfd",
             "screenshots": [
-                "img/31C4635A-A29D-4E94-B408-2E3DC063ADA6.png"
+                "../img/31C4635A-A29D-4E94-B408-2E3DC063ADA6.png"
             ],
-            "banner": "img/suzume.gif"
+            "banner": "../img/suzume.gif"
         },
         {
             "name": "RicKlock",
@@ -103,12 +103,12 @@
             "version": "1.0",
             "long_description": "Never gonna give you up\nNever gonna let you down!\ud83d\ude31",
             "category": null,
-            "icon": "img/2D642E96-5BFA-40C3-97CC-D507741BB3D4.gif",
+            "icon": "../img/2D642E96-5BFA-40C3-97CC-D507741BB3D4.gif",
             "path": "Tweaks/com.hn.rrclock.purekfd",
             "screenshots": [
-                "img/FD47F18C-FB97-4654-95FB-76B90D2F7A7D.png"
+                "../img/FD47F18C-FB97-4654-95FB-76B90D2F7A7D.png"
             ],
-            "banner": "img/suzume.gif"
+            "banner": "../img/suzume.gif"
         },
         {
             "name": "Safari Private Edit",
@@ -118,13 +118,13 @@
             "version": "1.0",
             "long_description": "Safari Private Browser mode!\nYou can edit your own text on Tweak Settings \ud83e\udd2d",
             "category": null,
-            "icon": "img/sfr.png",
+            "icon": "../img/sfr.png",
             "path": "Tweaks/com.hn.sfredit.purekfd",
             "screenshots": [
-                "img/IMG_0706.PNG",
-                "img/IMG_0708.PNG"
+                "../img/IMG_0706.PNG",
+                "../img/IMG_0708.PNG"
             ],
-            "banner": "img/suzume.gif"
+            "banner": "../img/suzume.gif"
         },
         {
             "name": "PiPTime",
@@ -134,12 +134,12 @@
             "version": "1.0",
             "long_description": "Usage: Enable, give PureKFD permission to enable PiP.\nEnjoy!\nI'll update it to add Lunar Calendar and more!",
             "category": null,
-            "icon": "img/ic.png",
+            "icon": "../img/ic.png",
             "path": "Tweaks/com.hn.pip1.purekfd",
             "screenshots": [
-                "img/IMG_1074.PNG"
+                "../img/IMG_1074.PNG"
             ],
-            "banner": "img/suzume.gif"
+            "banner": "../img/suzume.gif"
         },
         {
             "name": "Hentie",
@@ -149,12 +149,12 @@
             "version": "1.0",
             "long_description": "Usage: Enable, give PureKFD permission to enable PiP.\nGive permission to requested API\nEnjoy!\nHentie using a part of Joutai code thanks to Robin",
             "category": null,
-            "icon": "img/IMG_1211.JPG",
+            "icon": "../img/IMG_1211.JPG",
             "path": "Tweaks/com.hn.pip2.purekfd",
             "screenshots": [
-                "img/IMG_1209.PNG"
+                "../img/IMG_1209.PNG"
             ],
-            "banner": "img/suzume.gif"
+            "banner": "../img/suzume.gif"
         }
     ]
 }
