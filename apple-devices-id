@@ -54,6 +54,10 @@ iPhone15,4 : iPhone 15
 iPhone15,5 : iPhone 15 Plus
 iPhone16,1 : iPhone 15 Pro
 iPhone16,2 : iPhone 15 Pro Max
+iPhone17,1 : iPhone 16 Pro
+iPhone17,2 : iPhone 16 Pro Max
+iPhone17,3 : iPhone 16
+iPhone17,4 : iPhone 16 Plus
 
 iPod1,1 : 1st Gen iPod
 iPod2,1 : 2nd Gen iPod
@@ -145,6 +149,14 @@ iPad14,3 : iPad Pro 11 inch 4th Gen
 iPad14,4 : iPad Pro 11 inch 4th Gen
 iPad14,5 : iPad Pro 12.9 inch 6th Gen
 iPad14,6 : iPad Pro 12.9 inch 6th Gen
+iPad14,8 : iPad Air 6th Gen
+iPad14,9 : iPad Air 6th Gen
+iPad14,10 : iPad Air 7th Gen
+iPad14,11 : iPad Air 7th Gen
+iPad16,3 : iPad Pro 11 inch 5th Gen
+iPad16,4 : iPad Pro 11 inch 5th Gen
+iPad16,5 : iPad Pro 12.9 inch 7th Gen
+iPad16,6 : iPad Pro 12.9 inch 7th Gen
 
 Watch1,1 : Apple Watch 38mm case
 Watch1,2 : Apple Watch 42mm case
