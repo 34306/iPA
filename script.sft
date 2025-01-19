@@ -1,0 +1,5 @@
+touch_at(195,646,0.3);
+delay(1);
+tocuh_at(242,609,0.3);
+delay(1);
+touch_at(222,587,0.3);
