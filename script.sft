@@ -1,8 +1,9 @@
 touch_at(195,646,0.3);
-text("Nội dung");
+text("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean hendrerit enim quis scelerisque sagittis. Sed vel orci vitae neque lacinia molestie et sed nisl. Fusce a accumsan diam, nec finibus diam. Ut scelerisque, quam a commodo blandit, felis purus dignissim nisl, dignissim tempor tellus risus eget mi. In ut porta elit. Morbi dictum diam id sapien tincidunt, vel finibus risus varius. Integer fermentum est vitae lorem laoreet, at molestie felis placerat. Pellentesque rutrum velit a mi eleifend placerat. Integer nec lectus nec lacus pharetra ornare ac feugiat odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus dignissim est id ultrices ultricies.
+Phasellus a consequat mauris. Aliquam id nisi nec magna volutpat efficitur in nec urna. Sed pretium dui quam, ut vehicula lectus varius et. Sed scelerisque ligula vel mi aliquam sagittis. Ut eros sapien, gravida eu metus vitae, pellentesque tincidunt risus. Duis eget fermentum justo. Vestibulum dignissim congue aliquet. Phasellus aliquam dapibus metus, eget cursus felis facilisis sed. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec vestibulum malesuada nisi, vulputate laoreet sapien iaculis sed. Aliquam venenatis auctor tellus, et lobortis felis finibus euismod. Sed enim neque, mattis ut sodales nec, ultrices id est. Suspendisse rutrum commodo erat, nec aliquam ante imperdiet in. Vivamus sed blandit sem. Nunc ante massa, sodales eget viverra ut, pharetra non sapien. Donec sapien ligula, congue eu odio eget, rhoncus condimentum enim.");
 delay(1);
 touch_at(242,609,0.3);
-text("Nội dung");
+text("by 34306");
 delay(1);
 touch_at(222,587,0.3);
-text("Nội dung");
+text("hehe");
