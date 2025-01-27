@@ -1,12 +1,4 @@
-touch_at(262,74,0.3);
-delay(1);
-touch_at(84,130,0.3);
-delay(1);
-text("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean hendrerit enim quis scelerisque sagittis.");
-delay(1);
-touch_at(91,79,0.3);
-delay(1);
-text("by 34306");
-delay(1);
-touch_at(222,587,0.3);
-text("hehe");
+delay(10);
+text("someone1234@gmail.com");
+delay(3);
+text("12312351234");
