@@ -1,4 +1,6 @@
-delay(10);
-text("someone1234@gmail.com");
-delay(3);
-text("12312351234");
+touch_at(281,709,0.3);
+delay(1);
+touch_at(340,758,0.3);
+delay(1);
+touch_at(194,549,0.3);
+delay(1);
