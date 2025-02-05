@@ -1,6 +1,12 @@
 touch_at(281,709,0.3);
 delay(1);
-touch_at(194,549,0.3);
+touch_at(197,670,0.3);
 delay(1);
-touch_at(265,512,0.3);
+touch_at(56,192,0.3);
+delay(1);
+text("123123@gmail.com");
+delay(1);
+touch_at(50,238,0.3);
+delay(1);
+text("abcxyz123");
 delay(1);
