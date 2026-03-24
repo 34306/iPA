@@ -1,0 +1,407 @@
+{
+    "RepositoryName": "Huy Nguyen (Repacked)",
+    "RepositoryDescription": "Huy Nguyen's MDC/KFD Repo",
+    "RepositoryAuthor": "Huy Nguyen",
+    "RepositoryIcon": "https://raw.githubusercontent.com/34306/iPA/main/img/DC2C7804-DF46-4A67-9229-4ABA53A45C7D.jpeg",
+    "RepositoryWebsite": "",
+    "DefaultHeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+    "RepositoryContents": [
+        {
+            "Name": "Torch&Camera",
+            "Description": "Change Torch and Camera icon to checkra1n and Snowflake icon",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0515.jpeg",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "checkra1n bright your light",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/torch_and_cam.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.tnc.misaka",
+                    "Description": "Torch and Camera or checkra1n and snowflake? 🤣"
+                }
+            ],
+            "PackageID": "com.hn.tnc"
+        },
+        {
+            "Name": "Genshin clock font (iOS 15)",
+            "Description": "Change font clock to Genshin on iOS 15",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_1697.JPG",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "I pulled a Qiqi and lost 50/50, at 90 pity 🥺",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0003.PNG", "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0002.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.gsclock.misaka",
+                    "Description": "Genshin in your area!"
+                }
+            ],
+            "PackageID": "com.hn.gsclock"
+        },
+        {
+            "Name": "Mihari clock (Homescreen)",
+            "Description": "Mahiro-chan does not like it",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/onimai.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Mahiro-chan does not want to become a girl, Mihari 🥺",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0530.jpeg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.mhrclock.misaka",
+                    "Description": "Onimaiiii!"
+                }
+            ],
+            "PackageID": "com.hn.mhrclock"
+        },
+        {
+            "Name": "ClockFonts (iOS 16)",
+            "Description": "Various fonts clock for iOS 16",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0619.jpeg",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "8 different fonts for iOS 16 😝",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0620.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.16clock1.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.16clock1"
+        },
+        {
+            "Name": "Bae Kajima ringtone",
+            "Description": "Set ringtone to Playtime to enable",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/bocchi.gif",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Change ringtone to Playtime to enable and feeling it! 🥰",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.baert.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.baert"
+        },
+        {
+            "Name": "Genshin Passcode",
+            "Description": "Genshin Passcode LS",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/D3FE7B03-097F-48B4-B8E5-1A85203C6682.gif",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Paimon is not emergency food 😠\nSupport all languages! 🥰",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0639.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.gspc.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.gspc"
+        },
+        {
+            "Name": "SwipeLove (iOS 16)",
+            "Description": "Change Swipe to unlock",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/93EACE69-62BA-4432-861C-DD53791C639B.jpeg",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Change Swipe to unlock to Loving you 3000 😘\nSupport en, vi, ru, ja languages",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/386DEA8C-C113-45E0-866C-9D447BDC4CD8.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.loveyou.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.loveyou"
+        },
+        {
+            "Name": "ElementTorch",
+            "Description": "Change Torch icon to Genshin elements",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/A7569540-B7B5-4073-9D1C-6960215ED017.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Change Torch and Camera icon to Genshin Elements\nSupport both iOS 15 and 16",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/31C4635A-A29D-4E94-B408-2E3DC063ADA6.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.gstorch.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.gstorch"
+        },
+        {
+            "Name": "RicKlock",
+            "Description": "Never gonna give you up...!",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/2D642E96-5BFA-40C3-97CC-D507741BB3D4.gif",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Never gonna give you up\nNever gonna let you down!😱",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/FD47F18C-FB97-4654-95FB-76B90D2F7A7D.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.rrclock.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.rrclock"
+        },
+        {
+            "Name": "ShutdownSound",
+            "Description": "Enable Shutdown sound like iPhone 14 Pro!",
+            "MinIOSVersion": "16.0",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/sound.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "It's auto enabled!\nYou can try by Shutdown your devices 😱",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/3EE039DF-02F5-4EBD-8F9C-BC2BE0F6ED19.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.shutdownsound.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.shutdownsound"
+        },
+        {
+            "Name": "Safari Private Edit",
+            "Description": "Edit text on Safari Private Browser mode!",
+            "MinIOSVersion": "15.0",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/sfr.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Safari Private Browser mode!\nYou can edit your own text on Tweak Settings 🤭",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0706.PNG", "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0708.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.sfredit.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.sfredit"
+        },
+        {
+            "Name": "Hidden iCloud",
+            "Description": "Hide your iCloud without password",
+            "MinIOSVersion": "15.0",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/493162.webp",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "How to use:\n1. Enable, then go to Settings > General\n2. Disable all the ScreenTime button\n3. Delete dsid config number\n4. Reboot and now you can logout iCloud without password!\n🥰",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_4689.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.rmicl.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.rmicl"
+        },
+        {
+            "Name": "PiPTime",
+            "Description": "Show time, free RAM, date and iOS",
+            "MinIOSVersion": "15.0",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/ic.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Usage: Enable, give Misaka permission to enable PiP.\nEnjoy!\nI'll update it to add Lunar Calendar and more!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_1074.PNG"
+            ],
+            "compatibleExploit": ["MDC", "KFD", "No Exploit"],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.pip1.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.pip1"
+        },
+        {
+            "Name": "Hentie",
+            "Description": "Lunar PiP",
+            "MinIOSVersion": "15.0",
+            "Author": {
+                "Label": "Huy Nguyen",
+                "Links": [
+                    {
+                        "Label": "Huy Nguyen",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_1211.JPG",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Usage: Enable, give Misaka permission to enable PiP.\nGive permission to requested API\nEnjoy!\nHentie using a part of Joutai code thanks to Robin",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_1209.PNG"
+            ],
+            "compatibleExploit": ["MDC", "KFD", "No Exploit"],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/34306/iPA/main/misaka/com.hn.pip2.misaka",
+                    "Description": "Huy Nguyen in your area!"
+                }
+            ],
+            "PackageID": "com.hn.pip2"
+        }
+    ]
+}
